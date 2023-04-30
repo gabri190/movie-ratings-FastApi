@@ -69,4 +69,4 @@ uvicorn main:app --reload
 <li> Link Explicação Youtube: https://youtu.be/oVQcdEAvk_w
 
 ### Entrega Final
-<li> Link PF: link aqui
+<li> Link PF: https://www.youtube.com/watch?v=sI1YNcSPE1E&feature=youtu.be
